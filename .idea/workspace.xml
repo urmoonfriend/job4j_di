@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf4d799e-422d-4051-b3f7-f4f8e3fc43a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kz/job4j/di/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kz/job4j/di/model/StartUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kz/job4j/di/model/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kz/job4j/di/service/ConsoleInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kz/job4j/di/service/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kz/job4j/di/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +32,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/user/Documents/IdeaProjects/my/Новая папка/di/checkstyle.xml",
     "node.js.detected.package.eslint": "true",
@@ -95,11 +82,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703246972286</updated>
-      <workItem from="1703246973739" duration="2260000" />
+      <workItem from="1703246973739" duration="3262000" />
     </task>
+    <task id="LOCAL-00001" summary="add .idea to .gitignore">
+      <option name="closed" value="true" />
+      <created>1703249702570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703249702570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add .idea to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .idea to .gitignore" />
   </component>
 </project>
