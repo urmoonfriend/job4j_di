@@ -1,10 +1,12 @@
 package kz.job4j.di.model;
 
 import kz.job4j.di.service.ConsoleInput;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 import org.springframework.beans.factory.annotation.Autowired;
 
 @Component
+@Scope("prototype")
 public class StartUI {
 
     @Autowired
