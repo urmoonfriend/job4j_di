@@ -2,17 +2,16 @@ package kz.job4j.di.model;
 
 import kz.job4j.di.service.ConsoleInput;
 import org.springframework.stereotype.Component;
+import org.springframework.beans.factory.annotation.Autowired;
 
 @Component
 public class StartUI {
 
+    @Autowired
     private Store store;
-    private ConsoleInput consoleInput;
 
-    public StartUI(Store store, ConsoleInput consoleInput) {
-        this.store = store;
-        this.consoleInput = consoleInput;
-    }
+    @Autowired
+    private ConsoleInput consoleInput;
 
     public void askAndAdd(String value) {
         consoleInput.askStr(value);
