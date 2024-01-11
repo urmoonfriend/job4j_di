@@ -1,7 +1,9 @@
 package kz.job4j.di.model;
 
 import kz.job4j.di.service.ConsoleInput;
+import org.springframework.stereotype.Component;
 
+@Component
 public class StartUI {
 
     private Store store;

@@ -1,7 +1,9 @@
 package kz.job4j.di.service;
 
 import java.util.Scanner;
+import org.springframework.stereotype.Component;
 
+@Component
 public class ConsoleInput {
 
     private Scanner scanner = new Scanner(System.in);
